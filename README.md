@@ -76,7 +76,7 @@
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/bhavesh-choudhary-351434255) <!-- Replace with real URL -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/bhavesh-choudhary-351434255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <!-- Replace with real URL -->
 - 📧 Email: `choudharybhavesh191@gmail.com` <!-- Optional -->
 - 🌐 Portfolio: Coming soon...
 
