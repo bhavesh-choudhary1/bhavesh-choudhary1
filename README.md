@@ -12,7 +12,6 @@
 ### 💻 Languages
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://cplusplus.com/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ---
@@ -26,7 +25,6 @@
 ---
 
 ### ⚙️ Frameworks & Libraries
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
@@ -60,24 +58,12 @@
 🔹 **Study Assistance**  
 → An AI-powered assistant that summarizes PDFs/audio lectures, converts media to text, and generates quiz questions for better revision.
 
-🔹 **Face Mask Detection** (Coming Soon)  
-→ A real-time face mask detector using OpenCV and TensorFlow.
-
 ---
 
 ## 📈 GitHub Stats
 
 ![Bhavesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavesh-choudhary1&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh-choudhary1&layout=compact&theme=radical)
-
----
-
-## 🔭 Goals for 2025
-- [ ] Contribute to 3+ open-source projects
-- [ ] Publish a Machine Learning blog series
-- [ ] Deploy 2+ full-stack AI apps using Flask or Streamlit
-- [ ] Achieve 500+ GitHub commits
-- [ ] Collaborate on a real-world AI research project
 
 ---
 
@@ -93,7 +79,6 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bhavesh-choudhary-351434255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <!-- Replace with real URL -->
 - 📧 Email: `choudharybhavesh191@gmail.com` <!-- Optional -->
-- 🌐 Portfolio: Coming soon...
 
 ---
 
